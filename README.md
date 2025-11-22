@@ -15,7 +15,7 @@ This project showing how to create a simple REST API in Nestjs that serves CRUD 
 
 1. Clone this Project
 2. install missing packeges using `npm install`
-3. run `npm run start:dev` after you set enf file bellow 
+3. run `npm run start:dev` after you set env file bellow 
 
 ## How to setup enviroment file
 
@@ -37,4 +37,5 @@ Since this is an example Post project , I'd encourge you to clone and rename thi
 ## Find a bug?
 
 If you found an issue or would like to submit an improvement  to this project , please submit an issue using the issues tab above. And if you like to submit an issue with a fix, reference the issue you created!
+
 
